@@ -41,12 +41,12 @@
 
 ## References
 
-- https://stackoverflow.com/questions/23483261/using-clock-process-cput ime-id-in-clock-gettime
-- https://stackoverflow.com/questions/23483261/using-clock-process-cput ime-id-in-clock-gettime
+- https://stackoverflow.com/questions/23483261/using-clock-process-cputime-id-in-clock-gettime
+- https://stackoverflow.com/questions/23483261/using-clock-process-cputime-id-in-clock-gettime
 - https://man7.org/linux/man-pages/man3/clock_gettime.3.html
 - https://man7.org/linux/man-pages/man3/pthread_setaffinity_np.3.html
 - https://man7.org/linux/man-pages/man3/CPU_SET.3.html
-- https://stackoverflow.com/questions/8223742/how-to-pass-multiple-para meters-to-a-thread-in-c
-- https://stackoverflow.com/questions/52962351/starvation-in-priority-thre ad-schedule-by-setting-affinity-to-single-cpu
-- https://stackoverflow.com/questions/41661288/calculate-running-time-of -thread-in-c
-- https://man7.org/linux/man-pages/man2/sched_setscheduler.2.html#LIB RARY
+- https://stackoverflow.com/questions/8223742/how-to-pass-multiple-parameters-to-a-thread-in-c
+- https://stackoverflow.com/questions/52962351/starvation-in-priority-thread-schedule-by-setting-affinity-to-single-cpu
+- https://stackoverflow.com/questions/41661288/calculate-running-time-of-thread-in-c
+- https://man7.org/linux/man-pages/man2/sched_setscheduler.2.html#LIBRARY
